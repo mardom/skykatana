@@ -1,0 +1,14 @@
+#HATS catalog
+obs_collection=hscx_minispring_gal
+dataproduct_type=object
+hats_nrows=8459347
+hats_col_ra=ra_UNC
+hats_col_dec=dec_UNC
+hats_max_rows=1000000
+hats_order=6
+moc_sky_fraction=0.28768
+hats_builder=hats-import v0.4.0
+hats_creation_date=2024-10-25T22\:44UTC
+hats_estsize=39688673
+hats_release_date=2024-09-18
+hats_version=v0.1
